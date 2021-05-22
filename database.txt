@@ -1,0 +1,11 @@
+- id INT not NULL auto_increment
+-reg_time datetime not null
+-session_id varchar(255) not null
+-name varchar(255)not null
+
+
+message
+
+-user_id (foreign)
+-message_time DATATIME NOT NULL
+-timestamp DATETIME
